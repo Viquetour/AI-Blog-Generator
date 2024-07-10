@@ -1,0 +1,18 @@
+[submodule "Documents/smart_contract_lottery/lottery_smart_Contract/lib/forge-std"]
+	path = Documents/smart_contract_lottery/lottery_smart_Contract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Documents/smart_contract_lottery/lottery_smart_Contract/lib/chainlink-brownie-contracts"]
+	path = Documents/smart_contract_lottery/lottery_smart_Contract/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "Documents/smart_contract_lottery/lottery_smart_Contract/lib/solmate"]
+	path = Documents/smart_contract_lottery/lottery_smart_Contract/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "Documents/smart_contract_lottery/lottery_smart_Contract/lib/foundry-devops"]
+	path = Documents/smart_contract_lottery/lottery_smart_Contract/lib/foundry-devops
+	url = https://github.com/ChainAccelOrg/foundry-devops
+[submodule "Documents/erc20_tokens/foundry-erc20-f23/lib/forge-std"]
+	path = Documents/erc20_tokens/foundry-erc20-f23/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Documents/erc20_tokens/foundry-erc20-f23/lib/openzeppelin-contracts"]
+	path = Documents/erc20_tokens/foundry-erc20-f23/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
